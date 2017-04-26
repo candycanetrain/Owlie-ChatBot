@@ -1,6 +1,6 @@
 # Owlie the GiftBot
 
-[Owlie the Giftbot live](https://owliethegiftbot.herokuapp.com)
+[Owlie the Giftbot live](http://www.owlie.site/)
 
 ## Description
 
