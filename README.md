@@ -14,11 +14,11 @@ Go to the link above and click the "Message Us" button, which will lead you to F
 
 ## Demo
 
-![Gif of Owlie](http://res.cloudinary.com/owlie/video/upload/c_scale,w_250/v1493163858/official1small_wiyl6c_v3ydm0.gif)
+![Gif of Owlie](http://res.cloudinary.com/owlie/video/upload/c_scale,w_270/v1493163858/official1small_wiyl6c_v3ydm0.gif)
 
 ### Persistent Menu
 
-![Gif of Persistent Menu](http://res.cloudinary.com/owlie/video/upload/c_scale,w_250/v1493166766/official2_biuvj9_1_gn5ipv.gif)
+![Gif of Persistent Menu](http://res.cloudinary.com/owlie/video/upload/c_scale,w_270/v1493166766/official2_biuvj9_1_gn5ipv.gif)
 
 ## Technologies and Development
 
